@@ -1,0 +1,20 @@
+Package: hello
+Title: Write An Introduction Message
+Version: 0.0.1
+Authors@R: c(
+    person("Christine", "Hoogland", , "christine.hoogland@finddx.org", role = c("aut", "cre")),
+    person("FIND", role = "cph")
+  )
+Description: Function to write an introduction message.
+License: MIT + file LICENSE
+Imports: 
+    glue
+Suggests: 
+    knitr,
+    rmarkdown,
+    testthat
+VignetteBuilder: 
+    knitr
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.2
