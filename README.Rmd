@@ -16,6 +16,7 @@ knitr::opts_chunk$set(
 # hello
 
 <!-- badges: start -->
+[![R-CMD-check](https://github.com/thinkr-n2-mars2022/hello.ch/workflows/R-CMD-check/badge.svg)](https://github.com/thinkr-n2-mars2022/hello.ch/actions)
 <!-- badges: end -->
 
 The goal of hello is to ...
